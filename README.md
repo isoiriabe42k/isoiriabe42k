@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isoiriabe42k
+- 👋 Hi, I’m Isobomuwa Saint Iriabe
 - 👀 I’m interested in AI for decision making
 - 🌱 I’m currently learning learning AI with python at Strive Schools
 - 💞️ I’m looking to collaborate with Data Science
